@@ -1,6 +1,3 @@
-# AS132892 (CLOUDFLARE)
-# Cloudflare, Inc.
-#
-IP-CIDR,103.21.246.0/23,no-resolve
-
+# tencent.com Asia/Hong_Kong
+IP-CIDR,1129.226.96.0/20,no-resolve
 
