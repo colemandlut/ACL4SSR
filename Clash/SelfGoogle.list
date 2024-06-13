@@ -2,6 +2,7 @@
 IP-CIDR,142.250.0.0/15,no-resolve
 IP-CIDR,172.217.0.0/16,no-resolve
 IP-CIDR,216.58.220.0/24,no-resolve
+IP-CIDR,216.239.36.0/24,no-resolve
 #IP-CIDR,8.8.4.4,no-resolve
 #Cloudflare workers pages
 DOMAIN-SUFFIX,workers.dev
