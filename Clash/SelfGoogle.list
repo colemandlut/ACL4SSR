@@ -1,5 +1,6 @@
 # Google Cloud
 IP-CIDR,34.108.0.0/14,no-resolve
+IP-CIDR,35.207.128.0/18,no-resolve
 IP-CIDR,142.250.0.0/15,no-resolve
 IP-CIDR,172.217.0.0/16,no-resolve
 IP-CIDR,216.58.220.0/24,no-resolve
@@ -11,3 +12,4 @@ IP-CIDR,216.239.38.0/24,no-resolve
 #Cloudflare workers pages
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,openwrt.pool.ntp.org
