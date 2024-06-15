@@ -14,3 +14,4 @@ IP-CIDR,216.239.38.0/24,no-resolve
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,openwrt.pool.ntp.org
+DOMAIN-SUFFIX,time.android.com
