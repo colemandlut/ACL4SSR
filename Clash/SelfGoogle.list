@@ -1,3 +1,5 @@
+IP-CIDR,47.121.134.69/32,no-resolve  #自己的ali云上的主机，没必要通过中国代理
+
 # Google Cloud
 IP-CIDR,34.108.0.0/14,no-resolve
 IP-CIDR,35.207.128.0/18,no-resolve
