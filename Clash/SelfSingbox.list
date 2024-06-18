@@ -1,1 +1,2 @@
-PROCESS-NAME,sing-box
+PROCESS-NAME,sing-box                  #DIRECT
+IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
