@@ -1,3 +1,4 @@
-PROCESS-NAME,sing-box
+PROCESS-NAME,sing-box (deleted)
+PROCESS-NAME,zerotier-one
 IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
 DOMAIN-SUFFIX,dynv6.com
