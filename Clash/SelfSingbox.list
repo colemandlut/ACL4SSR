@@ -2,3 +2,5 @@ PROCESS-NAME,sing-box (deleted)
 PROCESS-NAME,zerotier-one
 IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
 DOMAIN-SUFFIX,dynv6.com
+IP-CIDR,104.194.8.134/32,no-resolve    #zerotier planet
+
