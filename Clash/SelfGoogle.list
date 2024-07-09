@@ -9,6 +9,8 @@ IP-CIDR,216.239.32.0/24,no-resolve
 IP-CIDR,216.239.36.0/24,no-resolve
 IP-CIDR,216.239.38.0/24,no-resolve
 
+IP-CIDR,23.62.46.0/24,no-resolve    #US Akamai Technologies, Inc.
+
 #IP-CIDR,8.8.4.4,no-resolve
 
 #Cloudflare workers pages
