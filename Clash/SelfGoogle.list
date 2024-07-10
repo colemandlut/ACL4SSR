@@ -18,6 +18,7 @@ IP-CIDR,23.67.33.0/24,no-resolve      #US Akamai Technologies, Inc.
 IP-CIDR,23.198.112.0/20,no-resolve    #US Akamai Technologies, Inc.
 IP-CIDR,152.199.24.0/24,no-resolve    #US Edgecast Inc.
 IP-CIDR,152.195.38.0/24,no-resolve    #US Edgecast Inc.
+IP-CIDR,20.192.0.0/10,no-resolve      #SG Microsoft Corporation hosting
 IP-CIDR,52.224.0.0/11,no-resolve      #KR Microsoft Corporation
 IP-CIDR,52.120.0.0/14,no-resolve      #JP Microsoft Corporation
 IP-CIDR,151.101.108.0/22,no-resolve   #JP Fastly, Inc.
@@ -26,6 +27,9 @@ IP-CIDR,104.161.128.0/18,no-resolve   #JP Salesforce.com, Inc.
 IP-CIDR,18.239.192.0/21,no-resolve    #US Amazon.com, Inc.
 IP-CIDR,3.112.0.0/14,no-resolve       #JP Amazon.com, Inc.
 IP-CIDR,106.104.160.0/24,no-resolve   #TW Digital United Inc. isp
+IP-CIDR,84.17.53.0/24,no-resolve      #CH Europe Datacamp Limited hosting
+IP-CIDR,178.162.128.0/18,no-resolve   #NL Europe LeaseWeb Netherlands B.V. hosting
+IP-CIDR,185.125.190.0/24,no-resolve   #GB Europe Canonical Group Limited hosting
 
 #IP-CIDR,8.8.4.4,no-resolve
 
