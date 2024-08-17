@@ -4,4 +4,5 @@ IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
 DOMAIN-SUFFIX,dynv6.com
 IP-CIDR,104.194.8.134/32,no-resolve    #zerotier planet
 DOMAIN-SUFFIX,checkip.dyndns.com
+IP-CIDR,121.36.15.159/32,no-resolve    #huawei cloud
 
