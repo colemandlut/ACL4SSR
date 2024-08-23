@@ -1,6 +1,7 @@
 PROCESS-NAME,sing-box (deleted)
 PROCESS-NAME,zerotier-one
 PROCESS-NAME,nezha-agent
+PROCESS-NAME,hysteria
 IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
 IP-CIDR,121.36.15.159/32,no-resolve    #huawei cloud
 DOMAIN-SUFFIX,dynv6.com
