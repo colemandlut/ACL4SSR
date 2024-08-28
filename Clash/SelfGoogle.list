@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,openwrt.pool.ntp.org
 DOMAIN-SUFFIX,time.android.com
+PROCESS-NAME,zerotier-one
