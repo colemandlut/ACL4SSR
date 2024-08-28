@@ -1,5 +1,5 @@
 PROCESS-NAME,sing-box (deleted)
-PROCESS-NAME,zerotier-one
+#PROCESS-NAME,zerotier-one
 PROCESS-NAME,nezha-agent
 PROCESS-NAME,hysteria
 IP-CIDR,47.121.134.69/32,no-resolve    #DIRECT
