@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,dynv6.com
 IP-CIDR,104.194.8.134/32,no-resolve    #zerotier planet
 DOMAIN-SUFFIX,checkip.dyndns.com
 SRC-IP-CIDR,192.168.1.20/32
+SRC-IP-CIDR,192.168.1.55/32
