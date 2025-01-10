@@ -17,3 +17,5 @@ IP-CIDR,219.104.23.63/32,no-resolve    #home nuro
 DOMAIN-SUFFIX,tailscale.io
 IP-CIDR,208.111.34.178/32,no-resolve   #tailscale
 IP-CIDR,208.111.40.216/32,no-resolve   #tailscale
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,avast.com
