@@ -1,5 +1,6 @@
 # tencent.com Asia/Hong_Kong
 IP-CIDR,23.56.0.0/24,no-resolve  #JP Akamai International B.V.
+IP-CIDR,43.129.104.0/21,no-resolve #HK Tencent Building, Kejizhongyi Avenue
 IP-CIDR,43.132.83.0/24,no-resolve   #JP ACE qq.com hosting
 IP-CIDR,43.135.64.0/18,no-resolve  #HK Tencent Building, Kejizhongyi Avenue hosting
 IP-CIDR,43.154.192.0/18,no-resolve  #HK Tencent Building, Kejizhongyi Avenue hosting
