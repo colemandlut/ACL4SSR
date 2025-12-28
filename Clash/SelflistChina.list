@@ -3,7 +3,7 @@ IP-CIDR,129.226.96.0/20,no-resolve  #HK Tencent Building, Kejizhongyi Avenue hos
 IP-CIDR,43.132.83.0/24,no-resolve   #JP ACE qq.com hosting
 IP-CIDR,43.135.64.0/18,no-resolve  #HK Tencent Building, Kejizhongyi Avenue hosting
 IP-CIDR,43.154.192.0/18,no-resolve  #HK Tencent Building, Kejizhongyi Avenue hosting
+IP-CIDR,43.159.109.0/24,no-resolve  #SG ACE qq.com hosting
 IP-CIDR,43.160.144.0/20,no-resolve  #SG Tencent Building, Kejizhongyi Avenue hosting
 IP-CIDR,43.163.128.0/18,no-resolve  #CN Tencent Building, Kejizhongyi Avenue hosting
 IP-CIDR,101.33.17.0/24,no-resolve  #JP Tencent Building, Kejizhongyi Avenue hosting
-
